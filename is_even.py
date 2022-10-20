@@ -2,6 +2,6 @@
 
 #Print 1 if the number is even, otherwise print 0.
 
-number = 8
+number = 9
 number = number + 1
 print(number % 2)
