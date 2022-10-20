@@ -3,5 +3,4 @@
 #Print 1 if the number is even, otherwise print 0.
 
 number = 9
-number = number + 1
-print(number % 2)
+print(1-(number)%2)
